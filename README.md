@@ -1,1 +1,3 @@
-Server/backend component for the lexdee web front end.
+A PHP-based management interface for LXD.
+
+jblxd.php is the current landing page.
